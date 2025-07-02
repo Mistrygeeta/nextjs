@@ -1,4 +1,3 @@
-import React from 'react'
 
 const details = () => {
   return (
@@ -6,4 +5,4 @@ const details = () => {
   )
 }
 
-export default details
+export default details;
